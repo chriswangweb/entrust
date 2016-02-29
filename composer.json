@@ -1,0 +1,16 @@
+{
+    "name": "zhixing/entrust",
+    "description": "test1",
+    "authors": [
+        {
+            "name": "chriswang",
+            "email": "chris.wang.web@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zhixing\\": "src/"
+        }
+    }
+}
