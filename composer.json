@@ -1,6 +1,7 @@
 {
     "name": "zhixing/entrust",
     "description": "test1",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "chriswang",
