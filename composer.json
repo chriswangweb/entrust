@@ -7,7 +7,9 @@
             "email": "chris.wang.web@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+    	"zhixing/entrust":"*@dev"
+    	},
     "autoload": {
         "psr-4": {
             "zhixing\\": "src/"
